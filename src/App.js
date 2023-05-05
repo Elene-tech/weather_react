@@ -12,11 +12,16 @@ function App() {
           <a
             href="https://github.com/Elene-tech/weather_react/tree/master"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
           <p>
-            <a href="https://soft-dango-ade2ea.netlify.app" target="_blank">
+            <a
+              href="https://soft-dango-ade2ea.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
               Link to the web-site
             </a>
           </p>
